@@ -1,4 +1,4 @@
-# Projeto de registro de pedidos em JAVA
+# Projeto de registro de pedidos
 
 Pequeno projeto desenvolvido para colocar em prática os meus conhecimentos na composição de classes, assim como no uso de enumerações com o recurso "enums".
 
