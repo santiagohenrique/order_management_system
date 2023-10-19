@@ -1,5 +1,7 @@
 # Sistema de gerenciamento de pedidos
 
+## Descrição
+
 - Este projeto Java serve como um sistema de gerenciamento de pedidos online. Ele permite que os usuários insiram dados do cliente, informações do pedido e detalhes dos itens do pedido. O programa oferece flexibilidade na definição do status do pedido e exibe o resumo do pedido.
 
 ## Características
