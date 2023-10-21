@@ -1,4 +1,4 @@
-# Sistema de gerenciamento de pedidos
+# Sistema de Gerenciamento de Pedidos
 
 ## Descrição
 
